@@ -100,5 +100,39 @@ header {min-height: 926px; background-color: green;}
 .btm1_info a {width: 233px; background-color: #19242a; display: block; height: 62px;text-align: center;color: #fff;margin-top: 43px;line-height: 62px;font-size: 22px;}
 
 
-#btm2 {}
-.btm2_con {min-height: 538px;}
+#btm2 {background-color: #19242A;}
+.btm2_con {min-height: 536px;padding: 131px 0 50px;}
+.btm2_info {width: 100%; max-width: 1244px; color: #fff; text-align: center; margin: 0 auto;}
+.btm2_info h2 {font-family: "Racing Sans One", sans-serif; font-size: 60px; line-height: 100%;}
+.btm2_info p {margin-top: 33px;line-height: 216%;}
+.btm2_info a {width: 233px; background: #FF8A00; background: linear-gradient(90deg,rgba(255, 138, 0, 1) 0%, rgba(255, 192, 0, 1) 100%); display: block; height: 62px;text-align: center;color: #fff;margin: 42px auto 0;line-height: 62px;font-size: 22px;}
+.btm2_info a:hover {background-color: #FF8B00;}
+
+#btm3 {background: pink;  display: flex; justify-content: center; overflow: hidden;}
+#btm3 figure {width: 100%; max-width: 25%;}
+/* .btm3_con {min-height: 620px;} */
+
+#btm4 {}
+.btm4_con {min-height: 623px;}
+
+
+footer {background-color: burlywood;}
+.footer_con{min-height: 619px; padding: 138px 0 0; display: flex; justify-content: space-between; color: #fff;}
+
+
+.footer_info1 { width: 100%; max-width: 330px;}
+.footer_info1 h2 {font-family: 'Racing Sans One',sans-serif; font-size: 45px;line-height: 100%;}
+.footer_info1 p {margin-top: 31px;line-height: 213%;}
+
+.footer_info2 h2 {font-family: 'Racing Sans One',sans-serif; font-size: 45px;line-height: 100%;}
+.footer_info2 ul {margin-top: 37px;}
+.footer_info2 li {line-height: 100%; margin-top: 16px;}
+.footer_info2 li:first-child {margin-top: 0 !important;}
+
+
+.footer_info3 {width: 342px;margin-top: 5px; text-align: center; font-size: ;}
+.footer_info3 span {display: block; font-size: 15px}
+.footer_info3 span.copyright { margin-top: 28px;}
+.footer_info3 span.privacy {margin-top: 11px;}
+.footer_info3 span.design {margin-top: 11px;}
+.footer_info3 span.do_not_sell {margin-top: 11px;}
